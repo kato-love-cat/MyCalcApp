@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // 編集したよ
+        // 再編集したよ
 
     }
 }
