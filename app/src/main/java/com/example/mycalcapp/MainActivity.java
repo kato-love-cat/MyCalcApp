@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         // git reset //
         // git revert
         // git tag
-        // git log
+        // git log //
         // git stats
         // git diff
         // git mv
@@ -31,8 +31,5 @@ public class MainActivity extends AppCompatActivity {
         // git merge
         // git rebase
 
-        // commit A
-        // commit B
-        // commit C
     }
 }
