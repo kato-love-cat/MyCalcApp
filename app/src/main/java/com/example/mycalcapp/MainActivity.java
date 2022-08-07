@@ -32,7 +32,5 @@ public class MainActivity extends AppCompatActivity {
         // git rebase
 
         // commit A
-        // commit B
-        // commit C
     }
 }
