@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         // git commit //
         // git reset //
         // git revert
-        // git tag //
+        // git tag ////
         // git log //
         // git stats
         // git diff
