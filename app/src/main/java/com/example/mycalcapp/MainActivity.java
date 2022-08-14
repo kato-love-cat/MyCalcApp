@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         // git revert
         // git tag //
         // git log //
-        // git stats
+        // git stats //
         // git diff
         // git mv
         // git stash
