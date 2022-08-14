@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         // git diff //
         // git mv //
         // git stash ////
-        // git branch
+        // git branch //
         // git checkout
         // git merge
         // git rebase
