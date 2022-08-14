@@ -30,7 +30,5 @@ public class MainActivity extends AppCompatActivity {
         // git checkout //
         // git merge //
         // git rebase //
-
-        //A
     }
 }
