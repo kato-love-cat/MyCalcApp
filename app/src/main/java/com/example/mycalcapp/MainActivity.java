@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         // git log //
         // git stats //
         // git diff //
-        // git mv
+        // git mv //
         // git stash
         // git branch
         // git checkout
